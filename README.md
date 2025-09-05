@@ -18,3 +18,4 @@ Next Steps
 - Document walkthroughs, configs, and results here.  
 
 Stay tuned for updates as I continue leveling up!  
+<img width="1643" height="1169" alt="insideKALI" src="https://github.com/user-attachments/assets/7c0c693c-ebcb-4326-9f2b-0ec160d827ba" />
